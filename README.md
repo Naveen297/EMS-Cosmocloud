@@ -20,7 +20,7 @@ This is a simple Employee Management System built using ReactJS with Vite as the
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/yourusername/employee-management-system.git](https://github.com/Naveen297/EMS-Cosmocloud.git)
+https://github.com/Naveen297/EMS-Cosmocloud.git
 ```
 
 2. Navigate to the project directory:
