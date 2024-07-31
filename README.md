@@ -47,7 +47,7 @@ npm run dev
 yarn dev
 ```
 
-This will start the Vite development server. Open your browser and navigate to `http://localhost:3000`.
+This will start the Vite development server. Open your browser and navigate to `http://localhost:3000` or `http://localhost:5173`.
 
 ### Project Structure
 
