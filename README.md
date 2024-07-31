@@ -20,7 +20,7 @@ This is a simple Employee Management System built using ReactJS with Vite as the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/employee-management-system.git
+[git clone https://github.com/yourusername/employee-management-system.git](https://github.com/Naveen297/EMS-Cosmocloud.git)
 ```
 
 2. Navigate to the project directory:
@@ -35,15 +35,6 @@ cd employee-management-system
 npm install
 # or
 yarn install
-```
-
-### Configuration
-
-Create a `.env` file in the root directory and add the following environment variables. Replace `your_project_id` and `your_environment_id` with your Cosmocloud project and environment IDs.
-
-```env
-VITE_PROJECT_ID=your_project_id
-VITE_ENVIRONMENT_ID=your_environment_id
 ```
 
 ### Running the Application
